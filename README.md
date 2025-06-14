@@ -3,7 +3,7 @@ AI-Powered Resume Matcher
 
 This Streamlit application helps recruiters and job seekers efficiently compare resumes against job descriptions. It leverages Natural Language Processing (NLP) to calculate a match percentage, identify key matching and missing keywords, and even provides AI-generated suggestions to enhance resumes for specific roles.
 
-✨ Features
+ Features
 PDF Text Extraction: Upload job descriptions and multiple resumes in PDF format.
 
 Intelligent Matching: Calculates a cosine similarity score between the job description and each resume using TF-IDF vectorization.
